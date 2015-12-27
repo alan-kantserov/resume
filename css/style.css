@@ -233,7 +233,7 @@ span {
 body {
     margin-left: 20%;
     margin-right: 20%;
-    background-image: url("http://buzzgfx.com/wp-content/uploads/2014/06/main-background1.jpg");
+    background-image: url(/images/background.jpg);
     background-size: cover;
     background-attachment: fixed;
 }
@@ -308,3 +308,12 @@ img {
 #education h3 {
     color: dimgray;
 }
+
+#footerContacts {
+    background-color: #484848;
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    height: 10px;
+}    

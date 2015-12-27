@@ -158,13 +158,17 @@ function locationizer(work) {
 
 var projects = {
     "projects": [{
-        "title": "Portfolio Page",
-        "description": "All my work that is done so far is placed here!",
-        "image": ["http://placehold.it/350x150"]
+        "title": "Portfolio Site",
+        "description": "This is a first project of my Udacity Nanodegree. I created Portfolio for myself where I input some information about myself as a developer.",
+        "image": ["/images/Portfolio.JPG"]
     }, {
-        "title": "Online Resume",
-        "description": "Here is my first online resume, where I basically used a javascript in order to create a web page",
-        "image": ["http://placehold.it/350x150"]
+        "title": "Online resume",
+        "description": "Actually, this website is my second project of my Udacity Nanodegree. I created a resume webpage, where I put all the information about myself.",
+        "image": "",
+    }, {
+        "title": "Arcade game",
+        "description": "This is a third project of my Udacity Nanodegree. I created a simple 2D game, which will update and add new, cool features later.",
+        "image": ["/images/Arcade-game.JPG"]
     }]
 };
 

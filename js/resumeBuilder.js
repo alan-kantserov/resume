@@ -160,7 +160,7 @@ var projects = {
     "projects": [{
         "title": "Portfolio Site",
         "description": "This is a first project of my Udacity Nanodegree. I created Portfolio for myself where I input some information about myself as a developer.",
-        "image": ["/images/Portfolio.JPG"]
+        "image": ["/images/Portfolio.jpg"]
     }, {
         "title": "Online resume",
         "description": "Actually, this website is my second project of my Udacity Nanodegree. I created a resume webpage, where I put all the information about myself.",
@@ -168,7 +168,7 @@ var projects = {
     }, {
         "title": "Arcade game",
         "description": "This is a third project of my Udacity Nanodegree. I created a simple 2D game, which will update and add new, cool features later.",
-        "image": ["/images/Arcade-game.JPG"]
+        "image": ["/images/Arcade-game.jpg"]
     }]
 };
 
